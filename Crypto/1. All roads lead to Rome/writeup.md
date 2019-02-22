@@ -12,8 +12,12 @@
 This is a caesar chipher with a rotation of 10.
 
 To solve:
+
 `echo "EsDRkmu19{lkli_mkockb_gkc_k_medso}" | tr k-za-jK-ZA-J a-zA-Z`
+
 or
+
 `tr k-za-jK-ZA-J a-zA-Z < secret.txt`
+
 Yielding `UiTHack19{baby_caesar_was_a_cutie}`
 
