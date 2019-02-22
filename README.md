@@ -37,7 +37,9 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 
 ###### Misc
-
+- [ ] Reactivate GLADoS to hand out a flag
+- [ ] Up a flag to the IRC server
+- [ ] Esoteric horrorshow?
 
 ###### Pwn
 
