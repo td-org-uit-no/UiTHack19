@@ -15,12 +15,12 @@
 
 
 ### Categories
-* :sunglasses: Noob
-* :sunglasses: Pwn
-* :sunglasses: Reverse Engineering
-* :sunglasses: Crypto
-* :sunglasses: Web
-* :sunglasses: Misc
+* :baby: Noob
+* :fire: Pwn
+* :leftwards_arrow_with_hook: Reverse Engineering
+* :closed_lock_with_key: Crypto
+* :spider_web: Web
+* :rainbow: Misc
 
 ### Planning:
 
@@ -46,6 +46,12 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 
 ###### Crypto
+1. Mabye run base64 again? let the studentgets familiar witht he syntax. Can write more lines thats encrypted, so that the studentshave to decrypt multiple lines, and recognice the end of a base64 encrypted file '=='. Mabye takes this as the second task. 
+2.
+3. Hash SHA256, normal encryption, with one ore two lettes over f in the encryptet text. These will ned to be removed before decryption can take place. 
+4.
+5.
+6.
 
 
 ###### Web
