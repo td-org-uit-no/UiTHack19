@@ -49,7 +49,7 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 ###### Crypto
 1. Mabye run base64 again? let the studentgets familiar witht he syntax. Can write more lines thats encrypted, so that the studentshave to decrypt multiple lines, and recognice the end of a base64 encrypted file '=='. Mabye takes this as the second task. 
-2.
+2. ceasar chipher
 3. Hash SHA256, normal encryption, with one ore two lettes over f in the encryptet text. These will ned to be removed before decryption can take place. 
 4.
 5.
