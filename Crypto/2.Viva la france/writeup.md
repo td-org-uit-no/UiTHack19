@@ -13,6 +13,6 @@ This is a keyed Vigenere cipher. Alphabetkey is the english alphabet and passphr
 
 To solve:
 
-`Using the Vigenere decoder at dcode and "uithack" as a KEY.
-`Plugging this as the key yields the flag:
-`UiTHack19{Vigenere_has_alot_of_keys}
+Using the Vigenere decoder at dcode and "uithack" as a KEY.
+Plugging this as the key yields the flag:
+`UiTHack19{Vigenere_has_alot_of_keys}`
