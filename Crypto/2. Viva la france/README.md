@@ -1,4 +1,4 @@
-# Viva la France
+# Vive la France
 > Crypto - 150pts
 
 French keys are the worst, em' right?
