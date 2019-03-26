@@ -1,5 +1,5 @@
 Running server
 
 ```
-FLASK_APP=work.py run flask
+FLASK_APP=work.py flask run
 ```
