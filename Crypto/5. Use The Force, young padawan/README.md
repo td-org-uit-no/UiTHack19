@@ -10,7 +10,7 @@ Some wisdom that may help you on your way, here is.
 
 Herh herh herh. May you find the answers you seek, young padawan, and may the Force be with you..
 
-[the picture](../dog_picture)
+![the picture](../dog_picture/smiling_dog.png)
 
 
 [Writeup](./writeup.md)
