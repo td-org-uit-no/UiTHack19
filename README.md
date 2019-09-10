@@ -38,8 +38,8 @@ We define the following categories of challenges, with a minimum of three(3) in 
 ###### Noob
 - [X] Noob1
 - [X] Noob2
-- [ ] Noob3
-- [ ] Noob4
+- [X] Noob3
+- [X] Noob4
 - [ ] Noob5
 - [ ] Noob6
 
