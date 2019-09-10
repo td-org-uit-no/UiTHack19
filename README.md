@@ -1,7 +1,7 @@
 # UiTHack19
 
 ## Status/TODO
-- [ ] Create Crypto challs
+- [X] Create Crypto challs
     
 - [ ] Create Noob challs
 
@@ -12,6 +12,8 @@
 - [ ] Create Web challs
 
 - [ ] Create Misc challs
+
+- [ ] IRL challs (only on-site)
 
 
 ### Categories
@@ -34,7 +36,12 @@ The idea is to expose people to gradually more challenging tasks, starting with 
 ##### Challenge Categories
 We define the following categories of challenges, with a minimum of three(3) in each category and up to six(6).
 ###### Noob
-
+- [X] Noob1
+- [X] Noob2
+- [ ] Noob3
+- [ ] Noob4
+- [ ] Noob5
+- [ ] Noob6
 
 ###### Misc
 - [ ] Have a flag "hidden" on the tdctl site? And mabye on the IFI Discord?
@@ -50,13 +57,13 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 ###### Crypto
  
-- [ ] ceasar chipher, write in why we put what we put in terminal to solve rotation cipher?   
-- [ ] Mabye run base64 again? let the studentgets familiar witht he syntax. Can write more lines thats encrypted, so that the studentshave to decrypt multiple lines, and recognice the end of a base64 encrypted file '=='. Mabye takes this as the second task.
-- [ ] Hash password, normal encryption, with one ore two lettes over f in the encryptet text? These will ned to be removed before decryption can take place. Have this as the pasword for a steganography picture? Should this be under misc? 
+- [X] ceasar chipher, write in why we put what we put in terminal to solve rotation cipher?   
+- [X] Mabye run base64 again? let the studentgets familiar witht he syntax. Can write more lines thats encrypted, so that the studentshave to decrypt multiple lines, and recognice the end of a base64 encrypted file '=='. Mabye takes this as the second task.
+- [X] Hash password, normal encryption, with one ore two lettes over f in the encryptet text? These will ned to be removed before decryption can take place. Have this as the pasword for a steganography picture? Should this be under misc? 
 
 
 ###### Web
-- [ ] Easy get request of flag in URL
-- [ ] Some forgotten password and username in source?
+- [X] Easy get request of flag in URL
+- [ ] Some forgotten password and username in source, different variations of this?
 - [ ] As with the newsletter sites, maby have a "box" cover the actuall site where the flag is pictured? Manipulation of the source to remove?
-- [ ] Some manipulation with coockies mabye?
+
