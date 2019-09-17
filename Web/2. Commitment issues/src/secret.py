@@ -19,4 +19,4 @@ def secret_page():
     login()
     if not session.get('logged_in'):
         abort(401)
-    return "UiTHack2019{comment_your_code_they_say_it_is_important_they_say}"
+    return "UiTHack19{comment_your_code_they_say_it_is_important_they_say}"
