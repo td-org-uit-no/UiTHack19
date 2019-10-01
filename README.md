@@ -40,8 +40,8 @@ We define the following categories of challenges, with a minimum of three(3) in 
 - [X] Noob2
 - [X] Noob3
 - [X] Noob4
-- [ ] Noob5
-- [ ] Noob6
+- [X] Noob5
+- [X] Noob6
 
 ###### Misc
 - [ ] Have a flag "hidden" on the tdctl site? And mabye on the IFI Discord?
@@ -53,6 +53,9 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 
 ###### Reverse Engineering
+- [ ] Flag hidden in hexdump of executable file
+- [ ] ???
+- [ ] ???
 
 
 ###### Crypto
