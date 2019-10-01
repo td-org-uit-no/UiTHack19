@@ -1,7 +1,7 @@
 ## Noob
 
 **server:** `sparkly-unicorn.td.org.uit.no`
-
+marielme HackerUnite
 #### Noob1
 Username <br>
 noob1 -> rookie <br> 
