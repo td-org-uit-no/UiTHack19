@@ -33,12 +33,18 @@ scp user@host :path user@host :path ?
 marielme@sparkly-unicorn:/home/greenie/tmp/.hidden/nothing_here/mabye_in_here
 FLAG: `UiTHack19{I_hope_you_learned_how_to_search_inside_a_file}`
 
-#### Noob5
+### Noob5
 Username <br> 
-noob5 -> fledgling <br> 
-password `noob5` <br> 
+noob6 -> fledgling <br> 
+password `noob6` <br> 
+Oh no, I put all my passwords in one file! The only thing I remember is that the right one ends in with "unicorn"
+Can grep for unicorn, or even better for unicorn}$
+FLAG: `UiTHack19{rattiest_showered_leverages_clacking_vacate_libeled_unicorn}`
 
 #### Noob6
 Username <br> 
 noob6 -> prospect <br> 
 password `noob6` <br> 
+Flag in file compressed 5 times with different algorithms. Need to use the file command to determine type and then decompress.
+One-line solution: tar -xOf flag | bzcat | zcat | zcat | tar -xOf -
+FLAG: `UiTHack18{so_much_compression}`
