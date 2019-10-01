@@ -53,7 +53,7 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 
 ###### Reverse Engineering
-- [ ] Flag hidden in hexdump of executable file
+- [X] Flag hidden in hexdump of executable file
 - [ ] ???
 - [ ] ???
 
