@@ -46,5 +46,5 @@ Username <br>
 noob6 -> prospect <br> 
 password `noob6` <br> 
 Flag in file compressed 5 times with different algorithms. Need to use the file command to determine type and then decompress.
-One-line solution: tar -xOf flag | bzcat | zcat | zcat | tar -xOf -
-FLAG: `UiTHack18{so_much_compression}`
+One-line solution: tar -xOf flag | bzcat | tar -xO | bzcat | zcat | tar -xO
+FLAG: `UiTHack19{so_much_compression_I_feel_claustrophobic}`
