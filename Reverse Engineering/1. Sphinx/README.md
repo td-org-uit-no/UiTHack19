@@ -1,4 +1,4 @@
-# 1. Sphinx
+# Sphinx
 > Reverse Engineering - 150 pts
 
 DU MÅ SKRIVE TEKST HER!
