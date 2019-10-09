@@ -7,6 +7,6 @@
 
 ## Writeup 
 
-folder -> Sphinx <br>
-The program prompts the user for an answer to a riddle, but will never give up the flag. Instead the flag can be found by reading the binary with xxd or strings, and grep-ing for "UiT" <br>
-FLAG: `UiTHack19{the_sphinx_is_a_meanie}`
+folder -> Echo <br>
+The program outputs the user's inputs, but does not check for format strings. Therefore data can be read by inputting f.ex `%s` which will result in the flag.
+FLAG: `UiTHack19{I_heard_you_wanted_a_string}`

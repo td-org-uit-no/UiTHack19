@@ -52,7 +52,7 @@ We define the following categories of challenges, with a minimum of three(3) in 
 
 ###### Pwn
 - [X] Format string exploit
-- [ ] Buffer overflow into authorization
+- [X] Buffer overflow into authorization
 
 ###### Reverse Engineering
 - [X] Flag hidden in hexdump of executable file
