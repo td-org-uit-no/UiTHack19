@@ -48,7 +48,7 @@ We define the following categories of challenges, with a minimum of three(3) in 
 - [ ] Reactivate GLADoS to hand out a flag
 - [X] Up a flag to discord uithack server and td.uit instagram
         - Post picture in instagram
-- [ ] Esoteric horrorshow?
+- [X] Esoteric horrorshow
 
 ###### Pwn
 - [X] Format string exploit
