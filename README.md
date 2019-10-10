@@ -15,6 +15,20 @@
 
 - [ ] IRL challs (only on-site)
 
+## Post on Website
+- [X] Post Crypto challs
+    
+- [X] Post Noob challs
+
+- [ ] Post Pwn challs
+
+- [ ] Post RE challs
+
+- [ ] Post Web challs
+
+- [ ] Post Misc challs
+
+- [ ] Post IRL challs (only on-site)
 
 ### Categories
 * :baby: Noob
