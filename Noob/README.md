@@ -36,7 +36,7 @@ FLAG: `UiTHack19{I_hope_you_learned_how_to_search_inside_a_file}`
 ### Noob5
 Username <br> 
 noob6 -> fledgling <br> 
-password `noob6` <br> 
+password `noob5` <br> 
 Oh no, I put all my passwords in one file! The only thing I remember is that the right one ends in with "unicorn" <br>
 Can grep for unicorn, or even better for unicorn}$ <br>
 FLAG: `UiTHack19{rattiest_showered_leverages_clacking_vacate_libeled_unicorn}`
