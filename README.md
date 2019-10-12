@@ -58,7 +58,6 @@ We define the following categories of challenges, with a minimum of three(3) in 
 - [X] Noob6
 
 ###### Misc
-- [ ] Have a flag "hidden" on the tdctl site? And mabye on the IFI Discord?
 - [ ] Reactivate GLADoS to hand out a flag
 - [X] Up a flag to discord uithack server and td.uit instagram
         - Post picture in instagram
