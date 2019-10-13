@@ -1,5 +1,5 @@
 # Time-based Encryption
-> > Reverse Engineering - 300 pts
+> > Crypto - 500 pts
 > 
 > We have received intelligence of a time-based encryption system
 > and gained access to the source code of the system.
