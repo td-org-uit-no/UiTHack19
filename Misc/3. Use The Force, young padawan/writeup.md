@@ -2,13 +2,13 @@
 > > Misc - 300 pts
 >
 > Something wrong with this picture, there is. A cover-up it must be. But of what I know not. Hmmmmmm.
-> Some wisdom that may help you on your way, you SHAll have.
+> Some wisdom that may help you on your way, you shall have.
 >
 >```
->5AC152B6F8BKDB8BB12959548D542CB237C4A730K064BF88BBB8DD6E204912BAKAD
+>5AC152B6F8BkDB8BB12959548D542CB237C4A730k064BF88BBB8DD6E204912BAkAD
 >```
 >
->Herh herh herh. May you find the answers you seek, young padawan, and may the Force be with >you..
+>Hash hash hash. May you find the answers you seek, young padawan, and may the Force be with >you..
 
 
 ## Writeup
