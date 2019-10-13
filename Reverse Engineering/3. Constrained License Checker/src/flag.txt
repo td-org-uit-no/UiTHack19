@@ -1,0 +1,15 @@
+Godt jobbet!
+
+Etterretningstjenesten leter alltid etter de gode hodene, og vi vil påstå at du
+ikke kan få noen mer interessante arbeidsoppgaver noe annet sted i Norge; både
+innenfor utvikling og direkte sikkerhet.
+
+Vi vil oppfordre deg til å søke på noen av våre stillinger som ligger på finn.no:
+- https://www.finn.no/job/fulltime/search.html?q=etterretningstjenesten
+
+Spesielt kan disse to stillingene være spennende for deg:
+- https://www.finn.no/job/fulltime/ad.html?finnkode=157365784
+- https://www.finn.no/job/fulltime/ad.html?finnkode=157366473
+
+Her har du flagget ditt:
+UiTHack19{constraint_solving_is_pretty_cool}
