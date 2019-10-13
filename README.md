@@ -77,7 +77,7 @@ We define the following categories of challenges, with a minimum of three(3) in 
  
 - [X] ceasar chipher, write in why we put what we put in terminal to solve rotation cipher?   
 - [X] Mabye run base64 again? let the studentgets familiar witht he syntax. Can write more lines thats encrypted, so that the studentshave to decrypt multiple lines, and recognice the end of a base64 encrypted file '=='. Mabye takes this as the second task.
-- [X] Hash password, normal encryption, with one ore two lettes over f in the encryptet text? These will ned to be removed before decryption can take place. Have this as the pasword for a steganography picture? Should this be under misc? 
+- [X] Hash password, normal encryption, with one ore two lettes over f in the encryptet text? These will ned to be removed before decryption can take place. Have this as the pasword for a steganography picture? Should this be under misc? MOVE TO MISC
 
 
 ###### Web
