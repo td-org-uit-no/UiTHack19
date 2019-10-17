@@ -7,11 +7,11 @@
 
 - [ ] Create Pwn challs
 
-- [ ] Create RE challs
+- [X] Create RE challs
 
 - [ ] Create Web challs
 
-- [ ] Create Misc challs
+- [X] Create Misc challs
 
 - [ ] IRL challs (only on-site)
 
@@ -20,13 +20,13 @@
     
 - [X] Post Noob challs
 
-- [ ] Post Pwn challs
+- [X] Post Pwn challs
 
-- [ ] Post RE challs
+- [X] Post RE challs
 
 - [ ] Post Web challs
 
-- [ ] Post Misc challs
+- [X] Post Misc challs
 
 - [ ] Post IRL challs (only on-site)
 
