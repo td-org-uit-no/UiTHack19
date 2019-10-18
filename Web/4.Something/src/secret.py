@@ -6,36 +6,47 @@ app.config.update(dict(SECRET_KEY=os.urandom(16)))
 
 # admin_cookie = "access_token=access:true"
 # users_cookie = "access_token=access:false"
-
-@app.route("/", methods=['GET', 'POST'])
-def index():
-    print("the request = ", request.method)
-    if request.method == 'GET':
-        if not request.cookies.get('access_token'):
-            access_token = make_response(render_template('index.html'))
-            access_token.set_cookie('access_token', 'false')
+@app.route("/")
+def cookie():
+    cookie_id = request.cookies.get('access_cookie')
+    print("cookie id : ", cookie_id)
+    if cookie_id:
+        print("In cookie first")
+        if cookie_id == 'true':
+            print("In cookie")
+            # Success!
+            session['logged_in'] = True
+            return redirect(url_for('flag'))
         else:
-            access_token = request.cookies.get('access_token')
-            print("access_token GET :  ", access_token)
+            return redirect(url_for('login'))
+    else:
+        return redirect(url_for('login'))
 
+@app.route("/login", methods=['GET', 'POST'])
+def login():
+    print("the request = ", request.method)
     if request.method == 'POST':
-        
-        access_token = request.cookies.get('access_token')
-        print("access_token POST :  ", access_token)
-
-        try:
-            if 'true' in access_token:
-                session['logged_in'] = True
-                return redirect(url_for('flag'))
-        except:
-            return render_template('index.html')
-
+        res = redirect(url_for('check_cookie'))
+        res.set_cookie('access_token', 'false')
+        return res
     return render_template('index.html')
 
-
+@app.route("/check_cookie")
+def check_cookie():
+    user_id = request.cookies.get('access_token')
+    if user_id:
+        if user_id == 'true':
+            # Success!
+            print("KOMMER HIT")
+            session['logged_in'] = True
+            return redirect(url_for('flag'))
+        else:
+            return redirect(url_for('login'))
+    else:
+        return redirect(url_for('login'))
 
 @app.route("/flag")
 def flag():
-    if not session.get('logged_in'):
+    if not request.cookies.get('access_token') == 'true' or not session['logged_in']:
         abort(401)
     return "Well done my friend, your flag is: UiTHack19{testing}"

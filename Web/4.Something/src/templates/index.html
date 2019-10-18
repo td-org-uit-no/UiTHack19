@@ -5,8 +5,13 @@
     <title>UiTHack 2019</title>
   </head>
   <body>
-    <h1>UiTHack 2019 - the unicorn database </h1>
+    <h1>UiTHack 2019 - the unicorn jar </h1>
     <div>
+      {% if not session.logged_in %}
+      <form action="{{ url_for('check_cookie') }}" method="get">
+        <p>Would you like a snack?</p>
+      </form>
+      {% endif %}
       {% if not session.logged_in %}
       <p>You need to be logged in to view the sparkly <a href="{{ url_for('flag') }}">flag</a></p>
       {% else %}
@@ -18,7 +23,7 @@
       {% if error %}
       <p class="error"><strong>Error:</strong> {{ error }}
       {% endif %}
-    <form action="{{ url_for('index') }}" method="post">
+    <form action="{{ url_for('login') }}" method="post">
       <dl>
         <dt>Username:
         <dd><input type="text" name="username">
