@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Remember to remove this comment! Username: admin Password: NOT THIS TIME HACKER!! -->
+    <title>UiTHack 2019</title>
+  </head>
+  <body>
+    <h1>UiTHack 2019 - the unicorn database </h1>
+    <div>
+      {% if not session.logged_in %}
+      <p>You need to be logged in to view the sparkly <a href="{{ url_for('flag') }}">flag</a></p>
+      {% else %}
+      <p>You are logged in, get magnificent <a href="{{ url_for('flag') }}">flag</a></p>
+      {% endif %}
+    </div>
+    {% if not session.logged_in %}
+    <h2>Login</h2>
+      {% if error %}
+      <p class="error"><strong>Error:</strong> {{ error }}
+      {% endif %}
+    <form action="{{ url_for('index') }}" method="post">
+      <dl>
+        <dt>Username:
+        <dd><input type="text" name="username">
+        <dt>Password:
+        <dd><input type="password" name="password">
+        <dd><input type="submit" value="login">
+      </dl>
+    </form>
+    {% endif %}
+  </body>
+</html>
