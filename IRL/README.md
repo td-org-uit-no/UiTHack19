@@ -43,4 +43,4 @@ What is it that your children have to give you, that you cannot get yourself?
 Answer to Mariel.
 - Grandchildren
 
-Reveale flag: UiTHack19{not_only_Bilbo_and_Gollum_that_solves_riddles}
+Reveal flag: UiTHack19{not_only_Bilbo_and_Gollum_that_solves_riddles}
