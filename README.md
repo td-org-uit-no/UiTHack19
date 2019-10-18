@@ -33,6 +33,22 @@
 
 - [ ] Post IRL challs (only on-site)
 
+## TODO Lørdag
+- [ ] bilde på insta
+
+- [ ] finne fram hengelås
+
+- [ ] henge opp gåter
+
+- [ ] henge opp Enigma
+
+- [ ] starte Hack Overflow
+
+- [ ] starte opp nettsider
+
+- [ ] starte opp GLaDos
+
+
 ### Categories
 * :baby: Noob
 * :fire: Pwn
