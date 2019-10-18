@@ -34,13 +34,13 @@ The riddle is written on a note under the unicorn. Whisper the answer to Åsmund
 Look in my face, I am somebody; Look in my back, I am nobody.
 What am I?
 
-Answere to Åsmund:
+Answer to Åsmund:
 - I am a mirror
 
 Åsmund reply:
-What is it that your children has to give you, that you cannot get yourself?
+What is it that your children have to give you, that you cannot get yourself?
 
 Answer to Mariel.
-- Granchildren
+- Grandchildren
 
 Reveale flag: UiTHack19{not_only_Bilbo_and_Gollum_that_solves_riddles}
