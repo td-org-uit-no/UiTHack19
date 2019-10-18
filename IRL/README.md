@@ -1,7 +1,7 @@
 # IRL (In real life)
 
 - [X] Riddle
-- [ ] Lock-picking 
+- [X] Lock-picking 
 - [ ] Clues to solve the Enigma written in pictures(?) all over the location
 
 ## Enigma
@@ -25,7 +25,7 @@ Rotor 3
 
 plugboard: AS MU ND
 
-Flag: UiTHack19{the_Enigma_hugh?_Asa_classic}
+Flag: UiTHack19{the_Enigma_huh?_A_classic}
 
 
 ## Riddle
