@@ -13,7 +13,7 @@
 
 - [X] Create Misc challs
 
-- [ ] IRL challs (only on-site)
+- [X] IRL challs (only on-site)
 
 ## Post on Website
 - [X] Post Crypto challs
@@ -26,12 +26,12 @@
 
 - [X] Post Web challs
 
-- [ ] Add urls to Web challs
+- [X] Add urls to Web challs
 
 
 - [X] Post Misc challs
 
-- [ ] Post IRL challs (only on-site)
+- [X] Post IRL challs (only on-site)
 
 ## TODO Lørdag
 - [ ] bilde på insta
