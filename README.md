@@ -5,11 +5,11 @@
     
 - [X] Create Noob challs
 
-- [ ] Create Pwn challs
+- [X] Create Pwn challs
 
 - [X] Create RE challs
 
-- [ ] Create Web challs
+- [X] Create Web challs
 
 - [X] Create Misc challs
 
@@ -24,7 +24,10 @@
 
 - [X] Post RE challs
 
-- [ ] Post Web challs
+- [X] Post Web challs
+
+- [ ] Add urls to Web challs
+
 
 - [X] Post Misc challs
 
