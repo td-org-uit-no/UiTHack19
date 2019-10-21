@@ -8,4 +8,4 @@ The website is located at: `http://129.242.219.103:5656`
 Files: 
 [source code](./scr/)
 
-[writeup](./writeup)
+[Writeup](./writeup/)
