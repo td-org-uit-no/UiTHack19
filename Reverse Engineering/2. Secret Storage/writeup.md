@@ -1,4 +1,4 @@
-# Sphinx
+# Secret storage
 >> Reverse Engineering - 150 pts
 >
 > I have made a lockbox for my super secret flag. <br>

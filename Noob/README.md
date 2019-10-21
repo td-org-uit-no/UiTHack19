@@ -35,7 +35,7 @@ FLAG: `UiTHack19{I_hope_you_learned_how_to_search_inside_a_file}`
 
 ### Noob5
 Username <br> 
-noob6 -> fledgling <br> 
+noob5 -> fledgling <br> 
 password `noob5` <br> 
 Oh no, I put all my passwords in one file! The only thing I remember is that the right one ends in with "unicorn" <br>
 Can grep for unicorn, or even better for unicorn}$ <br>
@@ -46,5 +46,7 @@ Username <br>
 noob6 -> prospect <br> 
 password `noob6` <br> 
 Flag in file compressed 5 times with different algorithms. Need to use the file command to determine type and then decompress. <br>
+A useful trick is to pipe the output of each decompression into the file command with e.g `tar -xOf flag | bzcat | file -`. <br>
+This lets you iterate over decompressions and each time get the file type <br>
 One-line solution: tar -xOf flag | bzcat | tar -xO | bzcat | zcat | tar -xO <br>
 FLAG: `UiTHack19{so_much_compression_I_feel_claustrophobic}`
