@@ -28,7 +28,8 @@ def login():
         pass_digest = hash_bytes(request.form['password'])
         pass_b64 = base64.b64encode(pass_digest).decode()
         db = get_db()
-        cur = db.execute(f"SELECT * FROM Users WHERE username = '{request.form['username']}' AND password = '{pass_b64}'")
+        query = f"SELECT * FROM Users WHERE username = '{request.form['username']}' AND password = '{pass_b64}'"
+        cur = db.execute(query)
         entries = cur.fetchall()
         if len(entries) > 0:
             session['logged_in'] = True
