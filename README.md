@@ -103,4 +103,4 @@ We define the following categories of challenges, with a minimum of three(3) in 
 - [X] Easy get request of flag in URL
 - [ ] Some forgotten password and username in source, different variations of this?
 - [ ] As with the newsletter sites, maby have a "box" cover the actuall site where the flag is pictured? Manipulation of the source to remove?
-- [ ] Some sort of XSS `<script>alert(document.cookie)</script>`
+
