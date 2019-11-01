@@ -1,6 +1,5 @@
 ## Noob
 
-**server:** `sparkly-unicorn.td.org.uit.no`
 
 #### Noob1
 Username <br>
