@@ -2,7 +2,7 @@
 
 - [X] Riddle
 - [X] Lock-picking 
-- [ ] Clues to solve the Enigma written in pictures(?) all over the location
+- [X] Clues to solve the Enigma written in pictures all over the location
 
 ## Enigma
 Enigma M3 - 3 motor
