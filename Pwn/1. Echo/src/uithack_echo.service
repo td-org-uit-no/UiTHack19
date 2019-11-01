@@ -1,0 +1,12 @@
+[Unit]
+Description=UiTHack Echo exploit server
+After=network.target
+
+[Service]
+Type=simple
+User=unicorn
+WorkingDirectory=/home/Echo/1.\ Echo
+ExecStart=/usr/bin/socat TCP-LISTEN:7889,reuseaddr,fork EXEC:"/home/Echo/1.\ Echo/echo",stderr
+
+[Install]
+WantedBy=multi-user.target
